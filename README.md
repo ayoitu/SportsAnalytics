@@ -21,5 +21,7 @@ A continuación se muestran un pequeño resumen de los resultados obtenidos
 ### Computer vision
 (Se añaden los gif de los tres modelos ademas de una pequeña descripción de los mismos)
 
+![Alt text](cr_dribbling.gif?raw=true "Cr7_dribbling")
+![Alt text](golf_swing.gif?raw=true "golf_swing")
 ### Tabular data 
 (Se buscan y añaden gráficas de resultados buscar casos que acaben teniendo outpus visuales)
