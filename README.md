@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" alt="GIF" width="100%" height="auto">
+</p>
+
 # Ayose Iturralde
 (Foto)
 ## Who I am?
